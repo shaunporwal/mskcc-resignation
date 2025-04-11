@@ -1,0 +1,33 @@
+---
+title: ""
+format:
+    pdf:
+        header-includes:
+        - \pagestyle{empty}
+---
+
+\begin{center}
+MSKCC Letter of Resignation
+\end{center}
+
+\noindent\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lr}
+\textbf{Shaun Porwal} & April 11, 2025 \\
+shaun.porwal@gmail.com • (732) 318-7592 & \\
+\end{tabular*}
+
+**To:**\
+Andrew Vickers, Ling Chen\
+Memorial Sloan Kettering Cancer Center\
+Department of Biostatistics & Epidemiology\
+
+**Dear Andrew & Ling,**\
+
+It has been an excellent 4 years and 1 month at MSKCC. I do not think things could have gone any better. In my initial interview with Andrew, several things were touched upon. Andrew mentioned that he wanted at least 2 years from me, and promised in joining I would have a good career. I hope I have provided double the satisfaction, and I want to acknowledge that you both, truly, have played an oversized role in living up to that promise. In that same interview, I had also asked for 2 things in return: mentorship and impact. The only 2 things that matter, and both of which I received in spades. Mentorship is unquantifiable, as apparent and yet natural as air when sharing company with wise people. Impact, however, is tangible:
+
+![](./dca_email.png){width=80% fig-align="center"}
+
+You would think impact is something felt by others, but what I learned is that it's actually felt deepest by the parties making it. Another lesson learned from that email is that even a barebones, imperfect implementation of something useful is worth putting out there.
+
+I hope for all I received, I was able to reciprocate in full. After discussing with Nate & Ling, my last day on the team is Friday, May 9th. Thanks again!\
+
+**Shaun**
